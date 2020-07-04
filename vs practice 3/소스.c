@@ -1,5 +1,7 @@
 #include <stdio.h>
 
 void main() {
-	printf("h w\n");
+	// 이게 뭐니 상진아^^
+	printf("Hello, World!\n");
+
 }
